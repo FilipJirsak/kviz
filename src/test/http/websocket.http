@@ -1,0 +1,7 @@
+WEBSOCKET ws://localhost:8080/kviz
+Content-Type: application-json // Used for content highlighting only
+
+// Request body, for example:
+{
+  "message": "First message sent on connection"
+}
